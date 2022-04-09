@@ -1,4 +1,4 @@
-# BrainDiseaseClassification
+# Brain Diseases Multi-Class Classification
 Implemented classification for 37 types of brain diseases from brain MRI images with Deep Learning using MobileNetV3.
 Earning 10 fold cross validation accuracy of 87.69% and highest accuracy of 90.36%.
 
